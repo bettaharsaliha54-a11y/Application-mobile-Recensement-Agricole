@@ -1,3 +1,12 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettaharsaliha54-a11y&layout=donut&theme=dracula&hide_border=true" />
-</p>
+# 📊 إحصائيات المشروع (Project Statistics)
+
+### 🥧 مخطط نسب اللغات (Pie Chart)
+```mermaid
+pie title توزيع لغات الكود الأساسية
+    "Python (Backend)" : 1146
+    "Dart (Flutter)" : 204
+```
+
+### 📂 إحصائيات الملفات
+- **إجمالي ملفات الكود البرمجي:** 1,350 ملف.
+- **إجمالي ملفات المشروع كاملة:** +8,000 ملف.
