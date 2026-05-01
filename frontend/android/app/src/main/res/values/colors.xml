@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Premium Medical Blue -->
+    <color name="primary_blue">#0056D2</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="primary_dark">#003892</color>
+    
+    <!-- Accent Color - Vitality Mint -->
+    <color name="accent_mint">#00C853</color>
+    
+    <!-- Status Colors -->
+    <color name="status_pending">#FF9800</color>
+    <color name="status_taken">#00C853</color>
+    <color name="status_missed">#F44336</color>
+    
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#212121</color>
+    <color name="grey_light">#F5F7FA</color>
+    <color name="grey_text">#757575</color>
+    <color name="divider">#BDBDBD</color>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SmartMed</string>
+    
+    <!-- Dashboard Strings -->
+    <string name="welcome_back">مرحباً بك،</string>
+    <string name="daily_motto">صحتك هي أغلى ما تملك</string>
+    <string name="my_medicines">أدويتي اليومية</string>
+    <string name="no_medicines">لا يوجد أدوية مضافة حالياً</string>
+    
+    <!-- Add Medicine -->
+    <string name="add_medicine">إضافة دواء جديد</string>
+    <string name="med_name_hint">اسم الدواء</string>
+    <string name="dosage_hint">الجرعة (مثلاً: حبة واحدة)</string>
+    <string name="time_hint">وقت الجرعة</string>
+    <string name="save_med">حفظ الدواء</string>
+    
+    <!-- History & Stats -->
+    <string name="history">سجل الالتزام</string>
+    <string name="statistics">الإحصائيات</string>
+    <string name="adherence_rate">نسبة الالتزام</string>
+    
+    <!-- Notifications -->
+    <string name="remind_title">حان موعد الدواء!</string>
+    <string name="remind_msg">يرجى تناول جرعة: %s الآن.</string>
+</resources>
